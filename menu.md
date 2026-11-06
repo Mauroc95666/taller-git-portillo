@@ -2,3 +2,4 @@
 - Entrada: Sopa de maní
 - Plato principal: Pollo al horno
 - Postre: Flan de vainilla
+- Bebida: Limonada
